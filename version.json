@@ -1,7 +1,7 @@
 {
   "loginui": {
-    "version": "1.0.0",
-    "file_name": "LoginUI.exe",
-    "download_url": ""
+    "version": "1.0.1",
+    "download_url": "https://raw.githubusercontent.com/PhamThangbn/PT_Studio/main/apps/LoginUI.py"
   }
 }
+
